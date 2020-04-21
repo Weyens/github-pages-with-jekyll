@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome op mijn eerste blog
 
 I'm glad you are here. I plan to talk about ...
